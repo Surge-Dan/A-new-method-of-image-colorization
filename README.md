@@ -6,7 +6,7 @@ We consider the intensity value difference and distance difference between the c
 Combined with side window filtering, our algorithm significantly reduces the occurrence of colors bleeding at the edges of the colored image. 
 
 ## Run
-The test images is located in the `test image` directory.
+The test images is located in the `test_image` directory.
 Run main.py to enjoy your colorization.
 
 ```bash
