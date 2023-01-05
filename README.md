@@ -17,6 +17,6 @@ python main.py
 
 Original                       | Scribbles                              | Result                          
 :-------------:                | :-------------:                        | :-----:                         
-![Original](test_images/baby.bmp)      | ![Scribbles](test_images/baby.bmp)      | ![Result](result_images/with_SWF/baby.bmp)     
-![Original](test_images/glass.bmp)   | ![Scribbles](test_images/glass.bmp)   | ![Result](result_images/with_SWF/glass.bmp)  
-![Original](test_images/monaco.bmp)  | ![Scribbles](test_images/monaco.bmp)  | ![Result](result_images/with_SWF/monaco.bmp) 
+![Original](test_images/baby.bmp)      | ![Scribbles](test_images/baby_marked.bmp)      | ![Result](result_images/with_SWF/baby.bmp)     
+![Original](test_images/glass.bmp)   | ![Scribbles](test_images/glass_marked.bmp)   | ![Result](result_images/with_SWF/glass.bmp)  
+![Original](test_images/monaco.bmp)  | ![Scribbles](test_images/monaco_marked.bmp)  | ![Result](result_images/with_SWF/monaco.bmp) 
