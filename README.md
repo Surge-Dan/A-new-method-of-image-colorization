@@ -17,6 +17,6 @@ python main.py
 
 Original                       | Scribbles                              | Result                          
 :-------------:                | :-------------:                        | :-----:                         
-![Original](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/test images/baby.bmp)      | ![Scribbles](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/test images/baby.bmp)      | ![Result](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/result images/with SWF/baby.bmp)     
-![Original]([data/casual.bmp](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/test images/glass.bmp))   | ![Scribbles](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/test images/glass.bmp)   | ![Result](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/result images/with SWF/glass.bmp)  
-![Original]([data/example.bmp](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/test images/glass.bmp))  | ![Scribbles](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/test images/monaco.bmp)  | ![Result](http://github.com/Surge-Dan/New-Debleeding-Algorithm-for-Image-colorization/main/result images/with SWF/monaco.bmp) 
+![Original](test images/baby.bmp)      | ![Scribbles](test images/baby.bmp)      | ![Result](result images/with SWF/baby.bmp)     
+![Original](test images/glass.bmp))   | ![Scribbles](test images/glass.bmp)   | ![Result](result images/with SWF/glass.bmp)  
+![Original](test images/glass.bmp))  | ![Scribbles](test images/monaco.bmp)  | ![Result](result images/with SWF/monaco.bmp) 
