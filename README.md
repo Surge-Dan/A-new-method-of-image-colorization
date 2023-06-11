@@ -1,4 +1,4 @@
-# New-Debleeding-Algorithm-for-Image-colorization
+# A-New-Method-of-Image-colorization
 
 This repossitory contains a Python implementation of the New Debleeding Colorization Algorithm.
 Our proposed method is based on https://www.cs.huji.ac.il/w~yweiss/Colorization. 
