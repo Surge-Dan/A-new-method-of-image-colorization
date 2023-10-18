@@ -1,6 +1,6 @@
 # New-Approach-of-Image-Colorization
 
-This repossitory contains a Python implementation of the New Debleeding Colorization Algorithm.
+This repository contains a Python implementation of the novel Image Colorization Algorithm.
 Our proposed method is based on https://www.cs.huji.ac.il/w~yweiss/Colorization. 
 We consider the intensity value difference and distance difference between the central pixel in the window and its neighbor pixels comprehensively. 
 Combined with side window filtering, our algorithm significantly reduces the occurrence of colors bleeding at the edges of the colored image. 
